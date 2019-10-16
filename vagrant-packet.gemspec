@@ -22,7 +22,7 @@ Gem::Specification.new do |s|
   s.add_development_dependency "rake", "~> 12.3"
   s.add_development_dependency "rspec", ">= 3.5.0", "<= 3.6"
   s.add_development_dependency "rspec-its", "~> 1.2"
-  s.add_development_dependency "rubocop", "~> 0.50"
+  s.add_development_dependency "rubocop", "~> 0.57"
 
 
   # The following block of code determines the files that should be included
